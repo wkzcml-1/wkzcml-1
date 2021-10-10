@@ -9,7 +9,7 @@
 
 * Wakatime Week Stats
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wkzcml-1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wkzcml&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 * GitHub Stats Card
