@@ -1,6 +1,14 @@
 ### Hi there 👋
 **I'm Kai,a student from China🇨🇳.**
 
+
+### About me
+
+- 🏫 I'm studying CS at ⓊⓈⓉⒸ
+- 🧡 I love playing table tennis🏓
+- 💬 Ask me about anything [here](https://github.com/wkzcml-1/wkzcml-1/issues)
+
+
 ### Github statistics
 
 * Top Languages Card
